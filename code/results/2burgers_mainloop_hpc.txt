@@ -1,0 +1,721 @@
+Testing noise level: 0
+Success rate using original data: 100.0%
+Success rate using savgol data: 100.0%
+Success rate using l1 data: 100.0%
+Success rate using savl1 data: 100.0%
+Success rate using l1sav data: 100.0%
+Average coefficient error using original data: 0.0025985954130340245 ± 0.00022033503688458897
+Average coefficient error using savgol data: 0.0026946802983900354 ± 0.00038918912582353157
+Average coefficient error using l1 data: 0.002598780231545801 ± 0.00021991673753146593
+Average coefficient error using savl1 data: 0.002694790505783578 ± 0.00038987795850133674
+Average coefficient error using l1sav data: 0.0026948224481554805 ± 0.00038978458105711557
+Average number of wrong terms using original data: 0.0 ± 0.0
+Average number of wrong terms using savgol data: 0.0 ± 0.0
+Average number of wrong terms using l1 data: 0.0 ± 0.0
+Average number of wrong terms using savl1 data: 0.0 ± 0.0
+Average number of wrong terms using l1sav data: 0.0 ± 0.0
+Testing noise level: 5
+Success rate using original data: 100.0%
+Success rate using savgol data: 100.0%
+Success rate using l1 data: 100.0%
+Success rate using savl1 data: 100.0%
+Success rate using l1sav data: 100.0%
+Average coefficient error using original data: 0.004748703003961707 ± 0.0027815160271231995
+Average coefficient error using savgol data: 0.005573844677187036 ± 0.002806090902826861
+Average coefficient error using l1 data: 0.005459254425984216 ± 0.0027800970938512038
+Average coefficient error using savl1 data: 0.007494126796935778 ± 0.003032271033600909
+Average coefficient error using l1sav data: 0.006205468309648025 ± 0.0027913942708818074
+Average number of wrong terms using original data: 0.0 ± 0.0
+Average number of wrong terms using savgol data: 0.0 ± 0.0
+Average number of wrong terms using l1 data: 0.0 ± 0.0
+Average number of wrong terms using savl1 data: 0.0 ± 0.0
+Average number of wrong terms using l1sav data: 0.0 ± 0.0
+Testing noise level: 10
+Success rate using original data: 100.0%
+Success rate using savgol data: 99.8%
+Success rate using l1 data: 99.8%
+Success rate using savl1 data: 99.6%
+Success rate using l1sav data: 99.8%
+Average coefficient error using original data: 0.009148495436788731 ± 0.005058884596675657
+Average coefficient error using savgol data: 0.010187397712479828 ± 0.005519333401339498
+Average coefficient error using l1 data: 0.010575103781349965 ± 0.005392573033859156
+Average coefficient error using savl1 data: 0.015135198454690203 ± 0.006707165646109147
+Average coefficient error using l1sav data: 0.01191911382011209 ± 0.005486739166974456
+Average number of wrong terms using original data: 0.0 ± 0.0
+Average number of wrong terms using savgol data: 0.004 ± 0.08935323161475471
+Average number of wrong terms using l1 data: 0.004 ± 0.08935323161475471
+Average number of wrong terms using savl1 data: 0.008 ± 0.126237870704476
+Average number of wrong terms using l1sav data: 0.004 ± 0.08935323161475471
+Testing noise level: 15
+Success rate using original data: 99.4%
+Success rate using savgol data: 94.19999999999999%
+Success rate using l1 data: 98.4%
+Success rate using savl1 data: 98.0%
+Success rate using l1sav data: 97.39999999999999%
+Average coefficient error using original data: 0.017436223207068596 ± 0.04986559284078004
+Average coefficient error using savgol data: 0.021248361994467956 ± 0.03192485097250187
+Average coefficient error using l1 data: 0.015940655012479748 ± 0.012028408869846416
+Average coefficient error using savl1 data: 0.02276504805079266 ± 0.015264407664698429
+Average coefficient error using l1sav data: 0.01820260320969215 ± 0.015391865896298488
+Average number of wrong terms using original data: 0.004 ± 0.08935323161475471
+Average number of wrong terms using savgol data: 0.07 ± 0.3303028912982749
+Average number of wrong terms using l1 data: 0.026 ± 0.22209007181771995
+Average number of wrong terms using savl1 data: 0.032 ± 0.24284974778656868
+Average number of wrong terms using l1sav data: 0.038 ± 0.2693622096731462
+Testing noise level: 20
+Success rate using original data: 90.2%
+Success rate using savgol data: 86.4%
+Success rate using l1 data: 95.39999999999999%
+Success rate using savl1 data: 93.8%
+Success rate using l1sav data: 94.19999999999999%
+Average coefficient error using original data: 0.06691692294302595 ± 0.1597591229306764
+Average coefficient error using savgol data: 0.033562397432456835 ± 0.047672783777969435
+Average coefficient error using l1 data: 0.023746582678438877 ± 0.032263125886192276
+Average coefficient error using savl1 data: 0.03387382204674077 ± 0.03660498600528358
+Average coefficient error using l1sav data: 0.024910633147459706 ± 0.026171652802100365
+Average number of wrong terms using original data: 0.108 ± 0.4607993055550323
+Average number of wrong terms using savgol data: 0.196 ± 0.5564027318408852
+Average number of wrong terms using l1 data: 0.086 ± 0.39825117702274276
+Average number of wrong terms using savl1 data: 0.096 ± 0.4132602085853415
+Average number of wrong terms using l1sav data: 0.108 ± 0.4475890972756151
+Testing noise level: 25
+Success rate using original data: 67.80000000000001%
+Success rate using savgol data: 74.4%
+Success rate using l1 data: 93.4%
+Success rate using savl1 data: 86.6%
+Success rate using l1sav data: 91.8%
+Average coefficient error using original data: 0.17595868091709957 ± 0.2777894692402997
+Average coefficient error using savgol data: 0.06489733294303934 ± 0.1064824250648776
+Average coefficient error using l1 data: 0.036506415271907545 ± 0.07422532538018657
+Average coefficient error using savl1 data: 0.05699515573756245 ± 0.0952432294050481
+Average coefficient error using l1sav data: 0.033403370545400164 ± 0.03667477129051349
+Average number of wrong terms using original data: 0.43 ± 0.8655056325639944
+Average number of wrong terms using savgol data: 0.472 ± 0.9618814895817468
+Average number of wrong terms using l1 data: 0.14 ± 0.5407402333838309
+Average number of wrong terms using savl1 data: 0.254 ± 0.7358559641669014
+Average number of wrong terms using l1sav data: 0.162 ± 0.5619217027309055
+Testing noise level: 30
+Success rate using original data: 39.0%
+Success rate using savgol data: 59.199999999999996%
+Success rate using l1 data: 82.6%
+Success rate using savl1 data: 71.39999999999999%
+Success rate using l1sav data: 78.2%
+Average coefficient error using original data: 0.3102604252888219 ± 0.3298226730756969
+Average coefficient error using savgol data: 0.10486760553311922 ± 0.15958402161596746
+Average coefficient error using l1 data: 0.0658203147036907 ± 0.13541586293555638
+Average coefficient error using savl1 data: 0.10036911767342413 ± 0.16102629761647547
+Average coefficient error using l1sav data: 0.0596517435660968 ± 0.10938506410404418
+Average number of wrong terms using original data: 1.018 ± 1.23031540671488
+Average number of wrong terms using savgol data: 0.816 ± 1.2008930010621264
+Average number of wrong terms using l1 data: 0.364 ± 0.911868411559475
+Average number of wrong terms using savl1 data: 0.566 ± 1.0380963346433703
+Average number of wrong terms using l1sav data: 0.412 ± 0.8776422961548743
+Testing noise level: 35
+Success rate using original data: 21.8%
+Success rate using savgol data: 56.00000000000001%
+Success rate using l1 data: 77.4%
+Success rate using savl1 data: 60.6%
+Success rate using l1sav data: 74.6%
+Average coefficient error using original data: 0.4127654398537682 ± 0.3469541922859721
+Average coefficient error using savgol data: 0.13320966657517852 ± 0.18740490433968274
+Average coefficient error using l1 data: 0.09579284757405054 ± 0.18266646501978517
+Average coefficient error using savl1 data: 0.14758496935614243 ± 0.2098815346526767
+Average coefficient error using l1sav data: 0.0914814006576695 ± 0.17552003784216047
+Average number of wrong terms using original data: 1.572 ± 1.2840623037843608
+Average number of wrong terms using savgol data: 0.892 ± 1.231395955816
+Average number of wrong terms using l1 data: 0.454 ± 0.987868412289815
+Average number of wrong terms using savl1 data: 0.804 ± 1.2006598185997563
+Average number of wrong terms using l1sav data: 0.506 ± 0.990940966960192
+Testing noise level: 40
+Success rate using original data: 7.8%
+Success rate using savgol data: 42.199999999999996%
+Success rate using l1 data: 67.80000000000001%
+Success rate using savl1 data: 49.2%
+Success rate using l1sav data: 66.4%
+Average coefficient error using original data: 0.4821466818838411 ± 0.3489783115937707
+Average coefficient error using savgol data: 0.20465925426030843 ± 0.25075471878961686
+Average coefficient error using l1 data: 0.1431220578026489 ± 0.23827416078761077
+Average coefficient error using savl1 data: 0.2030106849110197 ± 0.24915089456652736
+Average coefficient error using l1sav data: 0.1245720778218963 ± 0.20577737850875033
+Average number of wrong terms using original data: 2.006 ± 1.2813914312184236
+Average number of wrong terms using savgol data: 1.282 ± 1.4650856630245208
+Average number of wrong terms using l1 data: 0.688 ± 1.1465844931796347
+Average number of wrong terms using savl1 data: 1.118 ± 1.391429480785857
+Average number of wrong terms using l1sav data: 0.678 ± 1.087343551965063
+Testing noise level: 45
+Success rate using original data: 4.0%
+Success rate using savgol data: 40.0%
+Success rate using l1 data: 60.0%
+Success rate using savl1 data: 42.4%
+Success rate using l1sav data: 61.8%
+Average coefficient error using original data: 0.46512760435071526 ± 0.3296923624206349
+Average coefficient error using savgol data: 0.2504473454228424 ± 0.27498670836506606
+Average coefficient error using l1 data: 0.19341323778397476 ± 0.28054275498947895
+Average coefficient error using savl1 data: 0.2553879353756239 ± 0.2775920705242773
+Average coefficient error using l1sav data: 0.1663606931190808 ± 0.25846757664593983
+Average number of wrong terms using original data: 2.138 ± 1.2581557932148149
+Average number of wrong terms using savgol data: 1.406 ± 1.6239347277523195
+Average number of wrong terms using l1 data: 0.918 ± 1.3810416358676518
+Average number of wrong terms using savl1 data: 1.368 ± 1.5737140782238686
+Average number of wrong terms using l1sav data: 0.832 ± 1.253704909458362
+Testing noise level: 50
+Success rate using original data: 2.1999999999999997%
+Success rate using savgol data: 33.2%
+Success rate using l1 data: 57.4%
+Success rate using savl1 data: 35.6%
+Success rate using l1sav data: 58.199999999999996%
+Average coefficient error using original data: 0.4775124681833634 ± 0.32902288710215194
+Average coefficient error using savgol data: 0.3094949295195132 ± 0.3045107929082809
+Average coefficient error using l1 data: 0.21883783649669994 ± 0.30984087416128
+Average coefficient error using savl1 data: 0.310867333864025 ± 0.3113629161514738
+Average coefficient error using l1sav data: 0.18107940723995813 ± 0.27540005270726126
+Average number of wrong terms using original data: 2.314 ± 1.1795778906032446
+Average number of wrong terms using savgol data: 1.668 ± 1.6821938057191863
+Average number of wrong terms using l1 data: 0.942 ± 1.3411323573756617
+Average number of wrong terms using savl1 data: 1.588 ± 1.6487134378053696
+Average number of wrong terms using l1sav data: 0.904 ± 1.2644303065017068
+Testing noise level: 55
+Success rate using original data: 1.7999999999999998%
+Success rate using savgol data: 26.400000000000002%
+Success rate using l1 data: 50.2%
+Success rate using savl1 data: 28.999999999999996%
+Success rate using l1sav data: 49.0%
+Average coefficient error using original data: 0.5122556433157907 ± 0.33881122064126595
+Average coefficient error using savgol data: 0.3383625326889362 ± 0.3133140679096798
+Average coefficient error using l1 data: 0.24666215536649091 ± 0.32341282640561914
+Average coefficient error using savl1 data: 0.3234459155439421 ± 0.3017022051550886
+Average coefficient error using l1sav data: 0.2286453595171501 ± 0.3093287301257645
+Average number of wrong terms using original data: 2.41 ± 1.2561448961007642
+Average number of wrong terms using savgol data: 1.924 ± 1.7430502000803074
+Average number of wrong terms using l1 data: 1.206 ± 1.5031846193997596
+Average number of wrong terms using savl1 data: 1.856 ± 1.7062426556618493
+Average number of wrong terms using l1sav data: 1.204 ± 1.4650542652065828
+Testing noise level: 60
+Success rate using original data: 1.0%
+Success rate using savgol data: 25.8%
+Success rate using l1 data: 43.4%
+Success rate using savl1 data: 25.6%
+Success rate using l1sav data: 45.2%
+Average coefficient error using original data: 0.4885304240865216 ± 0.31322189297120034
+Average coefficient error using savgol data: 0.3826124067564417 ± 0.3287226933816485
+Average coefficient error using l1 data: 0.3074129565904584 ± 0.3664946129549253
+Average coefficient error using savl1 data: 0.38337662868299277 ± 0.3316228940997766
+Average coefficient error using l1sav data: 0.25907736834968803 ± 0.33456191308940003
+Average number of wrong terms using original data: 2.57 ± 1.2381841543163117
+Average number of wrong terms using savgol data: 1.996 ± 1.7076252516287054
+Average number of wrong terms using l1 data: 1.506 ± 1.704688827909657
+Average number of wrong terms using savl1 data: 2.024 ± 1.7548287665752462
+Average number of wrong terms using l1sav data: 1.306 ± 1.5007877931273295
+Testing noise level: 65
+Success rate using original data: 0.8%
+Success rate using savgol data: 19.8%
+Success rate using l1 data: 38.800000000000004%
+Success rate using savl1 data: 18.6%
+Success rate using l1sav data: 40.2%
+Average coefficient error using original data: 0.4824142397132247 ± 0.3145545772653159
+Average coefficient error using savgol data: 0.4492721632947345 ± 0.3734198685937822
+Average coefficient error using l1 data: 0.3514922424648158 ± 0.37683220202040885
+Average coefficient error using savl1 data: 0.434632435809899 ± 0.34980126758831576
+Average coefficient error using l1sav data: 0.319148031648496 ± 0.3608512018187268
+Average number of wrong terms using original data: 2.534 ± 1.1648364692093052
+Average number of wrong terms using savgol data: 2.14 ± 1.7007057358637911
+Average number of wrong terms using l1 data: 1.602 ± 1.6539637239069058
+Average number of wrong terms using savl1 data: 2.182 ± 1.6937756640122092
+Average number of wrong terms using l1sav data: 1.486 ± 1.582973152014904
+Testing noise level: 70
+Success rate using original data: 1.4000000000000001%
+Success rate using savgol data: 18.8%
+Success rate using l1 data: 31.6%
+Success rate using savl1 data: 17.0%
+Success rate using l1sav data: 33.4%
+Average coefficient error using original data: 0.4780077016476016 ± 0.3012548340052844
+Average coefficient error using savgol data: 0.49148524932615656 ± 0.3797396629089654
+Average coefficient error using l1 data: 0.3884233693311683 ± 0.3955472830853869
+Average coefficient error using savl1 data: 0.47075603374165226 ± 0.3688327742215663
+Average coefficient error using l1sav data: 0.35823916628233937 ± 0.3790691917854238
+Average number of wrong terms using original data: 2.52 ± 1.2702755606560334
+Average number of wrong terms using savgol data: 2.238 ± 1.7208590877814487
+Average number of wrong terms using l1 data: 1.826 ± 1.660037348977426
+Average number of wrong terms using savl1 data: 2.292 ± 1.7084308590048354
+Average number of wrong terms using l1sav data: 1.686 ± 1.5834784494902356
+Testing noise level: 75
+Success rate using original data: 0.4%
+Success rate using savgol data: 14.2%
+Success rate using l1 data: 26.6%
+Success rate using savl1 data: 14.000000000000002%
+Success rate using l1sav data: 30.0%
+Average coefficient error using original data: 0.43611291198031166 ± 0.2654028185567618
+Average coefficient error using savgol data: 0.5227483881694164 ± 0.37950152697581313
+Average coefficient error using l1 data: 0.4371455387607859 ± 0.4192896202310048
+Average coefficient error using savl1 data: 0.5090710026358192 ± 0.37653569884821086
+Average coefficient error using l1sav data: 0.38394496468038264 ± 0.4103586973741555
+Average number of wrong terms using original data: 2.5 ± 1.2688577540449522
+Average number of wrong terms using savgol data: 2.432 ± 1.6856381580873163
+Average number of wrong terms using l1 data: 2.068 ± 1.7513925887704331
+Average number of wrong terms using savl1 data: 2.522 ± 1.6986806645158472
+Average number of wrong terms using l1sav data: 1.804 ± 1.6228320923619917
+Testing noise level: 80
+Success rate using original data: 0.8%
+Success rate using savgol data: 12.2%
+Success rate using l1 data: 24.6%
+Success rate using savl1 data: 11.200000000000001%
+Success rate using l1sav data: 28.4%
+Average coefficient error using original data: 0.45941489872672764 ± 0.2697676491920323
+Average coefficient error using savgol data: 0.5420849550030502 ± 0.36780761384499894
+Average coefficient error using l1 data: 0.42717937152812546 ± 0.4028070198645415
+Average coefficient error using savl1 data: 0.5237794569637074 ± 0.3593192998463368
+Average coefficient error using l1sav data: 0.38971132596698765 ± 0.3960366927873723
+Average number of wrong terms using original data: 2.758 ± 1.3473811635910604
+Average number of wrong terms using savgol data: 2.478 ± 1.7022091528363956
+Average number of wrong terms using l1 data: 2.048 ± 1.697555890096111
+Average number of wrong terms using savl1 data: 2.592 ± 1.7022150275449928
+Average number of wrong terms using l1sav data: 1.924 ± 1.6619939831419366
+Testing noise level: 85
+Success rate using original data: 0.4%
+Success rate using savgol data: 8.4%
+Success rate using l1 data: 19.8%
+Success rate using savl1 data: 8.0%
+Success rate using l1sav data: 22.2%
+Average coefficient error using original data: 0.44344976845080936 ± 0.2653376040016776
+Average coefficient error using savgol data: 0.6425577946915464 ± 0.430930213408767
+Average coefficient error using l1 data: 0.5040860384046969 ± 0.4711654855570149
+Average coefficient error using savl1 data: 0.6242764566306445 ± 0.4245070659316963
+Average coefficient error using l1sav data: 0.47343260406647014 ± 0.46166292041495177
+Average number of wrong terms using original data: 2.762 ± 1.3525368756525642
+Average number of wrong terms using savgol data: 2.606 ± 1.5358268131530979
+Average number of wrong terms using l1 data: 2.282 ± 1.723506890035546
+Average number of wrong terms using savl1 data: 2.714 ± 1.5723243940103453
+Average number of wrong terms using l1sav data: 2.148 ± 1.6810996401165517
+Testing noise level: 90
+Success rate using original data: 0.4%
+Success rate using savgol data: 8.200000000000001%
+Success rate using l1 data: 15.8%
+Success rate using savl1 data: 7.6%
+Success rate using l1sav data: 18.0%
+Average coefficient error using original data: 0.4260811746619979 ± 0.24011839985811534
+Average coefficient error using savgol data: 0.6037631431474386 ± 0.4057969108699782
+Average coefficient error using l1 data: 0.5072802592258743 ± 0.4523197756626476
+Average coefficient error using savl1 data: 0.5942424330960167 ± 0.4052467539954996
+Average coefficient error using l1sav data: 0.4862925931170231 ± 0.4615752854230357
+Average number of wrong terms using original data: 2.73 ± 1.3729894391436521
+Average number of wrong terms using savgol data: 2.592 ± 1.6411995612965535
+Average number of wrong terms using l1 data: 2.482 ± 1.7057772421978201
+Average number of wrong terms using savl1 data: 2.76 ± 1.610714127336071
+Average number of wrong terms using l1sav data: 2.298 ± 1.6190108091053623
+Testing noise level: 95
+Success rate using original data: 0.6%
+Success rate using savgol data: 7.000000000000001%
+Success rate using l1 data: 15.0%
+Success rate using savl1 data: 7.000000000000001%
+Success rate using l1sav data: 19.0%
+Average coefficient error using original data: 0.428833534508367 ± 0.24407586144504256
+Average coefficient error using savgol data: 0.6824936302463472 ± 0.4605428076750405
+Average coefficient error using l1 data: 0.5955837814064783 ± 0.5245605629269091
+Average coefficient error using savl1 data: 0.667293016583771 ± 0.45723137627252763
+Average coefficient error using l1sav data: 0.5425067493515731 ± 0.5225582033504494
+Average number of wrong terms using original data: 2.85 ± 1.5111254084290953
+Average number of wrong terms using savgol data: 2.684 ± 1.5466557470878903
+Average number of wrong terms using l1 data: 2.574 ± 1.6960318393237788
+Average number of wrong terms using savl1 data: 2.78 ± 1.596120296218302
+Average number of wrong terms using l1sav data: 2.426 ± 1.7653679503151745
+Testing noise level: 100
+Success rate using original data: 0.0%
+Success rate using savgol data: 4.0%
+Success rate using l1 data: 12.6%
+Success rate using savl1 data: 4.0%
+Success rate using l1sav data: 16.6%
+Average coefficient error using original data: 0.4699497094454906 ± 0.24775411829248317
+Average coefficient error using savgol data: 0.7058423941649434 ± 0.45828242341206327
+Average coefficient error using l1 data: 0.5705827129038642 ± 0.4763663626331298
+Average coefficient error using savl1 data: 0.6846927190074211 ± 0.4535261788029157
+Average coefficient error using l1sav data: 0.5445253202508532 ± 0.4729442120270376
+Average number of wrong terms using original data: 3.12 ± 1.4810806865258894
+Average number of wrong terms using savgol data: 2.804 ± 1.523674505923099
+Average number of wrong terms using l1 data: 2.482 ± 1.6253233524440605
+Average number of wrong terms using savl1 data: 2.898 ± 1.5606396124666324
+Average number of wrong terms using l1sav data: 2.374 ± 1.6619638985248746
+
+
+
+noise level 0
+Success rate using original data: 100.0%
+Success rate using savgol data: 100.0%
+Success rate using l1 data: 100.0%
+Success rate using savl1 data: 100.0%
+Success rate using l1sav data: 100.0%
+noise level 5
+Success rate using original data: 100.0%
+Success rate using savgol data: 100.0%
+Success rate using l1 data: 100.0%
+Success rate using savl1 data: 100.0%
+Success rate using l1sav data: 100.0%
+noise level 10
+Success rate using original data: 100.0%
+Success rate using savgol data: 99.8%
+Success rate using l1 data: 99.8%
+Success rate using savl1 data: 99.6%
+Success rate using l1sav data: 99.8%
+noise level 15
+Success rate using original data: 99.4%
+Success rate using savgol data: 94.19999999999999%
+Success rate using l1 data: 98.4%
+Success rate using savl1 data: 98.0%
+Success rate using l1sav data: 97.39999999999999%
+noise level 20
+Success rate using original data: 90.2%
+Success rate using savgol data: 86.4%
+Success rate using l1 data: 95.39999999999999%
+Success rate using savl1 data: 93.8%
+Success rate using l1sav data: 94.19999999999999%
+noise level 25
+Success rate using original data: 67.80000000000001%
+Success rate using savgol data: 74.4%
+Success rate using l1 data: 93.4%
+Success rate using savl1 data: 86.6%
+Success rate using l1sav data: 91.8%
+noise level 30
+Success rate using original data: 39.0%
+Success rate using savgol data: 59.199999999999996%
+Success rate using l1 data: 82.6%
+Success rate using savl1 data: 71.39999999999999%
+Success rate using l1sav data: 78.2%
+noise level 35
+Success rate using original data: 21.8%
+Success rate using savgol data: 56.00000000000001%
+Success rate using l1 data: 77.4%
+Success rate using savl1 data: 60.6%
+Success rate using l1sav data: 74.6%
+noise level 40
+Success rate using original data: 7.8%
+Success rate using savgol data: 42.199999999999996%
+Success rate using l1 data: 67.80000000000001%
+Success rate using savl1 data: 49.2%
+Success rate using l1sav data: 66.4%
+noise level 45
+Success rate using original data: 4.0%
+Success rate using savgol data: 40.0%
+Success rate using l1 data: 60.0%
+Success rate using savl1 data: 42.4%
+Success rate using l1sav data: 61.8%
+noise level 50
+Success rate using original data: 2.1999999999999997%
+Success rate using savgol data: 33.2%
+Success rate using l1 data: 57.4%
+Success rate using savl1 data: 35.6%
+Success rate using l1sav data: 58.199999999999996%
+noise level 55
+Success rate using original data: 1.7999999999999998%
+Success rate using savgol data: 26.400000000000002%
+Success rate using l1 data: 50.2%
+Success rate using savl1 data: 28.999999999999996%
+Success rate using l1sav data: 49.0%
+noise level 60
+Success rate using original data: 1.0%
+Success rate using savgol data: 25.8%
+Success rate using l1 data: 43.4%
+Success rate using savl1 data: 25.6%
+Success rate using l1sav data: 45.2%
+noise level 65
+Success rate using original data: 0.8%
+Success rate using savgol data: 19.8%
+Success rate using l1 data: 38.800000000000004%
+Success rate using savl1 data: 18.6%
+Success rate using l1sav data: 40.2%
+noise level 70
+Success rate using original data: 1.4000000000000001%
+Success rate using savgol data: 18.8%
+Success rate using l1 data: 31.6%
+Success rate using savl1 data: 17.0%
+Success rate using l1sav data: 33.4%
+noise level 75
+Success rate using original data: 0.4%
+Success rate using savgol data: 14.2%
+Success rate using l1 data: 26.6%
+Success rate using savl1 data: 14.000000000000002%
+Success rate using l1sav data: 30.0%
+noise level 80
+Success rate using original data: 0.8%
+Success rate using savgol data: 12.2%
+Success rate using l1 data: 24.6%
+Success rate using savl1 data: 11.200000000000001%
+Success rate using l1sav data: 28.4%
+noise level 85
+Success rate using original data: 0.4%
+Success rate using savgol data: 8.4%
+Success rate using l1 data: 19.8%
+Success rate using savl1 data: 8.0%
+Success rate using l1sav data: 22.2%
+noise level 90
+Success rate using original data: 0.4%
+Success rate using savgol data: 8.200000000000001%
+Success rate using l1 data: 15.8%
+Success rate using savl1 data: 7.6%
+Success rate using l1sav data: 18.0%
+noise level 95
+Success rate using original data: 0.6%
+Success rate using savgol data: 7.000000000000001%
+Success rate using l1 data: 15.0%
+Success rate using savl1 data: 7.000000000000001%
+Success rate using l1sav data: 19.0%
+noise level 100
+Success rate using original data: 0.0%
+Success rate using savgol data: 4.0%
+Success rate using l1 data: 12.6%
+Success rate using savl1 data: 4.0%
+Success rate using l1sav data: 16.6%
+
+
+noise level 0
+Average coefficient error using original data: 0.0025985954130340245 ± 0.00022033503688458897
+Average coefficient error using savgol data: 0.0026946802983900354 ± 0.00038918912582353157
+Average coefficient error using l1 data: 0.002598780231545801 ± 0.00021991673753146593
+Average coefficient error using savl1 data: 0.002694790505783578 ± 0.00038987795850133674
+Average coefficient error using l1sav data: 0.0026948224481554805 ± 0.00038978458105711557
+noise level 5
+Average coefficient error using original data: 0.004748703003961707 ± 0.0027815160271231995
+Average coefficient error using savgol data: 0.005573844677187036 ± 0.002806090902826861
+Average coefficient error using l1 data: 0.005459254425984216 ± 0.0027800970938512038
+Average coefficient error using savl1 data: 0.007494126796935778 ± 0.003032271033600909
+Average coefficient error using l1sav data: 0.006205468309648025 ± 0.0027913942708818074
+noise level 10
+Average coefficient error using original data: 0.009148495436788731 ± 0.005058884596675657
+Average coefficient error using savgol data: 0.010187397712479828 ± 0.005519333401339498
+Average coefficient error using l1 data: 0.010575103781349965 ± 0.005392573033859156
+Average coefficient error using savl1 data: 0.015135198454690203 ± 0.006707165646109147
+Average coefficient error using l1sav data: 0.01191911382011209 ± 0.005486739166974456
+noise level 15
+Average coefficient error using original data: 0.017436223207068596 ± 0.04986559284078004
+Average coefficient error using savgol data: 0.021248361994467956 ± 0.03192485097250187
+Average coefficient error using l1 data: 0.015940655012479748 ± 0.012028408869846416
+Average coefficient error using savl1 data: 0.02276504805079266 ± 0.015264407664698429
+Average coefficient error using l1sav data: 0.01820260320969215 ± 0.015391865896298488
+noise level 20
+Average coefficient error using original data: 0.06691692294302595 ± 0.1597591229306764
+Average coefficient error using savgol data: 0.033562397432456835 ± 0.047672783777969435
+Average coefficient error using l1 data: 0.023746582678438877 ± 0.032263125886192276
+Average coefficient error using savl1 data: 0.03387382204674077 ± 0.03660498600528358
+Average coefficient error using l1sav data: 0.024910633147459706 ± 0.026171652802100365
+noise level 25
+Average coefficient error using original data: 0.17595868091709957 ± 0.2777894692402997
+Average coefficient error using savgol data: 0.06489733294303934 ± 0.1064824250648776
+Average coefficient error using l1 data: 0.036506415271907545 ± 0.07422532538018657
+Average coefficient error using savl1 data: 0.05699515573756245 ± 0.0952432294050481
+Average coefficient error using l1sav data: 0.033403370545400164 ± 0.03667477129051349
+noise level 30
+Average coefficient error using original data: 0.3102604252888219 ± 0.3298226730756969
+Average coefficient error using savgol data: 0.10486760553311922 ± 0.15958402161596746
+Average coefficient error using l1 data: 0.0658203147036907 ± 0.13541586293555638
+Average coefficient error using savl1 data: 0.10036911767342413 ± 0.16102629761647547
+Average coefficient error using l1sav data: 0.0596517435660968 ± 0.10938506410404418
+noise level 35
+Average coefficient error using original data: 0.4127654398537682 ± 0.3469541922859721
+Average coefficient error using savgol data: 0.13320966657517852 ± 0.18740490433968274
+Average coefficient error using l1 data: 0.09579284757405054 ± 0.18266646501978517
+Average coefficient error using savl1 data: 0.14758496935614243 ± 0.2098815346526767
+Average coefficient error using l1sav data: 0.0914814006576695 ± 0.17552003784216047
+noise level 40
+Average coefficient error using original data: 0.4821466818838411 ± 0.3489783115937707
+Average coefficient error using savgol data: 0.20465925426030843 ± 0.25075471878961686
+Average coefficient error using l1 data: 0.1431220578026489 ± 0.23827416078761077
+Average coefficient error using savl1 data: 0.2030106849110197 ± 0.24915089456652736
+Average coefficient error using l1sav data: 0.1245720778218963 ± 0.20577737850875033
+noise level 45
+Average coefficient error using original data: 0.46512760435071526 ± 0.3296923624206349
+Average coefficient error using savgol data: 0.2504473454228424 ± 0.27498670836506606
+Average coefficient error using l1 data: 0.19341323778397476 ± 0.28054275498947895
+Average coefficient error using savl1 data: 0.2553879353756239 ± 0.2775920705242773
+Average coefficient error using l1sav data: 0.1663606931190808 ± 0.25846757664593983
+noise level 50
+Average coefficient error using original data: 0.4775124681833634 ± 0.32902288710215194
+Average coefficient error using savgol data: 0.3094949295195132 ± 0.3045107929082809
+Average coefficient error using l1 data: 0.21883783649669994 ± 0.30984087416128
+Average coefficient error using savl1 data: 0.310867333864025 ± 0.3113629161514738
+Average coefficient error using l1sav data: 0.18107940723995813 ± 0.27540005270726126
+noise level 55
+Average coefficient error using original data: 0.5122556433157907 ± 0.33881122064126595
+Average coefficient error using savgol data: 0.3383625326889362 ± 0.3133140679096798
+Average coefficient error using l1 data: 0.24666215536649091 ± 0.32341282640561914
+Average coefficient error using savl1 data: 0.3234459155439421 ± 0.3017022051550886
+Average coefficient error using l1sav data: 0.2286453595171501 ± 0.3093287301257645
+noise level 60
+Average coefficient error using original data: 0.4885304240865216 ± 0.31322189297120034
+Average coefficient error using savgol data: 0.3826124067564417 ± 0.3287226933816485
+Average coefficient error using l1 data: 0.3074129565904584 ± 0.3664946129549253
+Average coefficient error using savl1 data: 0.38337662868299277 ± 0.3316228940997766
+Average coefficient error using l1sav data: 0.25907736834968803 ± 0.33456191308940003
+noise level 65
+Average coefficient error using original data: 0.4824142397132247 ± 0.3145545772653159
+Average coefficient error using savgol data: 0.4492721632947345 ± 0.3734198685937822
+Average coefficient error using l1 data: 0.3514922424648158 ± 0.37683220202040885
+Average coefficient error using savl1 data: 0.434632435809899 ± 0.34980126758831576
+Average coefficient error using l1sav data: 0.319148031648496 ± 0.3608512018187268
+noise level 70
+Average coefficient error using original data: 0.4780077016476016 ± 0.3012548340052844
+Average coefficient error using savgol data: 0.49148524932615656 ± 0.3797396629089654
+Average coefficient error using l1 data: 0.3884233693311683 ± 0.3955472830853869
+Average coefficient error using savl1 data: 0.47075603374165226 ± 0.3688327742215663
+Average coefficient error using l1sav data: 0.35823916628233937 ± 0.3790691917854238
+noise level 75
+Average coefficient error using original data: 0.43611291198031166 ± 0.2654028185567618
+Average coefficient error using savgol data: 0.5227483881694164 ± 0.37950152697581313
+Average coefficient error using l1 data: 0.4371455387607859 ± 0.4192896202310048
+Average coefficient error using savl1 data: 0.5090710026358192 ± 0.37653569884821086
+Average coefficient error using l1sav data: 0.38394496468038264 ± 0.4103586973741555
+noise level 80
+Average coefficient error using original data: 0.45941489872672764 ± 0.2697676491920323
+Average coefficient error using savgol data: 0.5420849550030502 ± 0.36780761384499894
+Average coefficient error using l1 data: 0.42717937152812546 ± 0.4028070198645415
+Average coefficient error using savl1 data: 0.5237794569637074 ± 0.3593192998463368
+Average coefficient error using l1sav data: 0.38971132596698765 ± 0.3960366927873723
+noise level 85
+Average coefficient error using original data: 0.44344976845080936 ± 0.2653376040016776
+Average coefficient error using savgol data: 0.6425577946915464 ± 0.430930213408767
+Average coefficient error using l1 data: 0.5040860384046969 ± 0.4711654855570149
+Average coefficient error using savl1 data: 0.6242764566306445 ± 0.4245070659316963
+Average coefficient error using l1sav data: 0.47343260406647014 ± 0.46166292041495177
+noise level 90
+Average coefficient error using original data: 0.4260811746619979 ± 0.24011839985811534
+Average coefficient error using savgol data: 0.6037631431474386 ± 0.4057969108699782
+Average coefficient error using l1 data: 0.5072802592258743 ± 0.4523197756626476
+Average coefficient error using savl1 data: 0.5942424330960167 ± 0.4052467539954996
+Average coefficient error using l1sav data: 0.4862925931170231 ± 0.4615752854230357
+noise level 95
+Average coefficient error using original data: 0.428833534508367 ± 0.24407586144504256
+Average coefficient error using savgol data: 0.6824936302463472 ± 0.4605428076750405
+Average coefficient error using l1 data: 0.5955837814064783 ± 0.5245605629269091
+Average coefficient error using savl1 data: 0.667293016583771 ± 0.45723137627252763
+Average coefficient error using l1sav data: 0.5425067493515731 ± 0.5225582033504494
+noise level 100
+Average coefficient error using original data: 0.4699497094454906 ± 0.24775411829248317
+Average coefficient error using savgol data: 0.7058423941649434 ± 0.45828242341206327
+Average coefficient error using l1 data: 0.5705827129038642 ± 0.4763663626331298
+Average coefficient error using savl1 data: 0.6846927190074211 ± 0.4535261788029157
+Average coefficient error using l1sav data: 0.5445253202508532 ± 0.4729442120270376
+
+
+noise level 0
+Average number of wrong terms using original data: 0.0 ± 0.0
+Average number of wrong terms using savgol data: 0.0 ± 0.0
+Average number of wrong terms using l1 data: 0.0 ± 0.0
+Average number of wrong terms using savl1 data: 0.0 ± 0.0
+Average number of wrong terms using l1sav data: 0.0 ± 0.0
+noise level 5
+Average number of wrong terms using original data: 0.0 ± 0.0
+Average number of wrong terms using savgol data: 0.0 ± 0.0
+Average number of wrong terms using l1 data: 0.0 ± 0.0
+Average number of wrong terms using savl1 data: 0.0 ± 0.0
+Average number of wrong terms using l1sav data: 0.0 ± 0.0
+noise level 10
+Average number of wrong terms using original data: 0.0 ± 0.0
+Average number of wrong terms using savgol data: 0.004 ± 0.08935323161475471
+Average number of wrong terms using l1 data: 0.004 ± 0.08935323161475471
+Average number of wrong terms using savl1 data: 0.008 ± 0.126237870704476
+Average number of wrong terms using l1sav data: 0.004 ± 0.08935323161475471
+noise level 15
+Average number of wrong terms using original data: 0.004 ± 0.08935323161475471
+Average number of wrong terms using savgol data: 0.07 ± 0.3303028912982749
+Average number of wrong terms using l1 data: 0.026 ± 0.22209007181771995
+Average number of wrong terms using savl1 data: 0.032 ± 0.24284974778656868
+Average number of wrong terms using l1sav data: 0.038 ± 0.2693622096731462
+noise level 20
+Average number of wrong terms using original data: 0.108 ± 0.4607993055550323
+Average number of wrong terms using savgol data: 0.196 ± 0.5564027318408852
+Average number of wrong terms using l1 data: 0.086 ± 0.39825117702274276
+Average number of wrong terms using savl1 data: 0.096 ± 0.4132602085853415
+Average number of wrong terms using l1sav data: 0.108 ± 0.4475890972756151
+noise level 25
+Average number of wrong terms using original data: 0.43 ± 0.8655056325639944
+Average number of wrong terms using savgol data: 0.472 ± 0.9618814895817468
+Average number of wrong terms using l1 data: 0.14 ± 0.5407402333838309
+Average number of wrong terms using savl1 data: 0.254 ± 0.7358559641669014
+Average number of wrong terms using l1sav data: 0.162 ± 0.5619217027309055
+noise level 30
+Average number of wrong terms using original data: 1.018 ± 1.23031540671488
+Average number of wrong terms using savgol data: 0.816 ± 1.2008930010621264
+Average number of wrong terms using l1 data: 0.364 ± 0.911868411559475
+Average number of wrong terms using savl1 data: 0.566 ± 1.0380963346433703
+Average number of wrong terms using l1sav data: 0.412 ± 0.8776422961548743
+noise level 35
+Average number of wrong terms using original data: 1.572 ± 1.2840623037843608
+Average number of wrong terms using savgol data: 0.892 ± 1.231395955816
+Average number of wrong terms using l1 data: 0.454 ± 0.987868412289815
+Average number of wrong terms using savl1 data: 0.804 ± 1.2006598185997563
+Average number of wrong terms using l1sav data: 0.506 ± 0.990940966960192
+noise level 40
+Average number of wrong terms using original data: 2.006 ± 1.2813914312184236
+Average number of wrong terms using savgol data: 1.282 ± 1.4650856630245208
+Average number of wrong terms using l1 data: 0.688 ± 1.1465844931796347
+Average number of wrong terms using savl1 data: 1.118 ± 1.391429480785857
+Average number of wrong terms using l1sav data: 0.678 ± 1.087343551965063
+noise level 45
+Average number of wrong terms using original data: 2.138 ± 1.2581557932148149
+Average number of wrong terms using savgol data: 1.406 ± 1.6239347277523195
+Average number of wrong terms using l1 data: 0.918 ± 1.3810416358676518
+Average number of wrong terms using savl1 data: 1.368 ± 1.5737140782238686
+Average number of wrong terms using l1sav data: 0.832 ± 1.253704909458362
+noise level 50
+Average number of wrong terms using original data: 2.314 ± 1.1795778906032446
+Average number of wrong terms using savgol data: 1.668 ± 1.6821938057191863
+Average number of wrong terms using l1 data: 0.942 ± 1.3411323573756617
+Average number of wrong terms using savl1 data: 1.588 ± 1.6487134378053696
+Average number of wrong terms using l1sav data: 0.904 ± 1.2644303065017068
+noise level 55
+Average number of wrong terms using original data: 2.41 ± 1.2561448961007642
+Average number of wrong terms using savgol data: 1.924 ± 1.7430502000803074
+Average number of wrong terms using l1 data: 1.206 ± 1.5031846193997596
+Average number of wrong terms using savl1 data: 1.856 ± 1.7062426556618493
+Average number of wrong terms using l1sav data: 1.204 ± 1.4650542652065828
+noise level 60
+Average number of wrong terms using original data: 2.57 ± 1.2381841543163117
+Average number of wrong terms using savgol data: 1.996 ± 1.7076252516287054
+Average number of wrong terms using l1 data: 1.506 ± 1.704688827909657
+Average number of wrong terms using savl1 data: 2.024 ± 1.7548287665752462
+Average number of wrong terms using l1sav data: 1.306 ± 1.5007877931273295
+noise level 65
+Average number of wrong terms using original data: 2.534 ± 1.1648364692093052
+Average number of wrong terms using savgol data: 2.14 ± 1.7007057358637911
+Average number of wrong terms using l1 data: 1.602 ± 1.6539637239069058
+Average number of wrong terms using savl1 data: 2.182 ± 1.6937756640122092
+Average number of wrong terms using l1sav data: 1.486 ± 1.582973152014904
+noise level 70
+Average number of wrong terms using original data: 2.52 ± 1.2702755606560334
+Average number of wrong terms using savgol data: 2.238 ± 1.7208590877814487
+Average number of wrong terms using l1 data: 1.826 ± 1.660037348977426
+Average number of wrong terms using savl1 data: 2.292 ± 1.7084308590048354
+Average number of wrong terms using l1sav data: 1.686 ± 1.5834784494902356
+noise level 75
+Average number of wrong terms using original data: 2.5 ± 1.2688577540449522
+Average number of wrong terms using savgol data: 2.432 ± 1.6856381580873163
+Average number of wrong terms using l1 data: 2.068 ± 1.7513925887704331
+Average number of wrong terms using savl1 data: 2.522 ± 1.6986806645158472
+Average number of wrong terms using l1sav data: 1.804 ± 1.6228320923619917
+noise level 80
+Average number of wrong terms using original data: 2.758 ± 1.3473811635910604
+Average number of wrong terms using savgol data: 2.478 ± 1.7022091528363956
+Average number of wrong terms using l1 data: 2.048 ± 1.697555890096111
+Average number of wrong terms using savl1 data: 2.592 ± 1.7022150275449928
+Average number of wrong terms using l1sav data: 1.924 ± 1.6619939831419366
+noise level 85
+Average number of wrong terms using original data: 2.762 ± 1.3525368756525642
+Average number of wrong terms using savgol data: 2.606 ± 1.5358268131530979
+Average number of wrong terms using l1 data: 2.282 ± 1.723506890035546
+Average number of wrong terms using savl1 data: 2.714 ± 1.5723243940103453
+Average number of wrong terms using l1sav data: 2.148 ± 1.6810996401165517
+noise level 90
+Average number of wrong terms using original data: 2.73 ± 1.3729894391436521
+Average number of wrong terms using savgol data: 2.592 ± 1.6411995612965535
+Average number of wrong terms using l1 data: 2.482 ± 1.7057772421978201
+Average number of wrong terms using savl1 data: 2.76 ± 1.610714127336071
+Average number of wrong terms using l1sav data: 2.298 ± 1.6190108091053623
+noise level 95
+verage number of wrong terms using original data: 2.85 ± 1.5111254084290953
+Average number of wrong terms using savgol data: 2.684 ± 1.5466557470878903
+Average number of wrong terms using l1 data: 2.574 ± 1.6960318393237788
+Average number of wrong terms using savl1 data: 2.78 ± 1.596120296218302
+Average number of wrong terms using l1sav data: 2.426 ± 1.7653679503151745
+noise level 100
+Average number of wrong terms using original data: 3.12 ± 1.4810806865258894
+Average number of wrong terms using savgol data: 2.804 ± 1.523674505923099
+Average number of wrong terms using l1 data: 2.482 ± 1.6253233524440605
+Average number of wrong terms using savl1 data: 2.898 ± 1.5606396124666324
+Average number of wrong terms using l1sav data: 2.374 ± 1.6619638985248746
